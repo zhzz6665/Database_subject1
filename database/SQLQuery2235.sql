@@ -1,0 +1,4 @@
+USE IBSS1618120322
+GO
+CREATE UNIQUE INDEX book_name
+ON books(bookName DESC)
